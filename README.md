@@ -29,11 +29,10 @@ An Android app for discovering popular movies. Built using:
 - MVVM architecture
 - Local caching with Room
 
-### 🔹 [Android Project – Smart Task App](https://github.com/TamiMes/androidProject)
+### 🔹 [Android Project – MerchVerse](https://github.com/TamiMes/androidProject)
 A feature-rich Android app built using:
-- Kotlin + Jetpack Compose
+- Java
 - Firebase integration for backend
-- Modern Android practices
 
 ### 🔹 Full-Stack App [AR---Smart-Campus-Navigation](https://github.com/ChenZalman/AR---Smart-Campus-Navigation)
 A full-stack project with:
