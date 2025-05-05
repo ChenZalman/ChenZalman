@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Chen Zalman
 
-<!--
-**ChenZalman/ChenZalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Android Developer** with a strong interest in building high-quality, user-centered applications. I specialize in **Kotlin** and **Jetpack Compose**, and I also enjoy working on full-stack projects where I can bring ideas to life from front to back.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 💡 Mobile Development
+- Kotlin, Jetpack Compose, Coroutines, Room, Retrofit
+- Android Architecture Components (MVVM)
+- Firebase (Authentication, Firestore, Crashlytics)
+- GitHub Actions for CI/CD
+
+### 🌐 Full-Stack & Backend
+- React (JSX, Hooks, Routing)
+- Server-side development with Node.js
+- MSSQL (Structured Query Language, Entity Framework)
+- RESTful APIs and backend integration
+- Deployment with platforms like Render and Heroku
+
+---
+
+## 📱 Projects
+
+### 🔹 [Reely Good Movies](https://github.com/ChenZalman/reely-good-movies)
+An Android app for discovering popular movies. Built using:
+- Kotlin + Coroutines + Retrofit
+- MVVM architecture
+- Local caching with Room
+
+### 🔹 [Android Project – Smart Task App](https://github.com/TamiMes/androidProject)
+A feature-rich Android app built using:
+- Kotlin + Jetpack Compose
+- Firebase integration for backend
+- Modern Android practices
+
+### 🔹 Full-Stack App [AR---Smart-Campus-Navigation](https://github.com/ChenZalman/AR---Smart-Campus-Navigation)
+A full-stack project with:
+- React frontend, server-side logic in Node.js
+- MSSQL database
+- Designed and implemented secure and scalable backend APIs
+
+---
+
+## 🚀 Open to Work
+I'm currently looking for opportunities as:
+- **Android Developer** (Junior / Entry-level / Internship)
+- Full-Stack Developer with a backend focus
+
+🟢 Available for **on-site** or **hybrid** roles.
+
+---
+
+## 🔗 Let's Connect!
+
+- 📧 Email: chenzalman96@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/chen-zalman](https://www.linkedin.com/in/chen-zalman)  
+- 💻 GitHub: [github.com/ChenZalman](https://github.com/ChenZalman)
+
+Thanks for visiting!
