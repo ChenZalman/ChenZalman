@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chen Zalman
 
-I'm a passionate **Android Developer** with a strong interest in building high-quality, user-centered applications. I specialize in **Kotlin** and **Jetpack Compose**, and I also enjoy working on full-stack projects where I can bring ideas to life from front to back.
+I'm a passionate **Android and Full-Stack Developer** with a strong interest in building high-quality, user-centered applications. I specialize in **Kotlin** and **React**, where I can bring ideas to life from front to back.
 
 ---
 
@@ -17,7 +17,6 @@ I'm a passionate **Android Developer** with a strong interest in building high-q
 - Server-side development with Node.js
 - MSSQL (Structured Query Language, Entity Framework)
 - RESTful APIs and backend integration
-- Deployment with platforms like Render and Heroku
 
 ---
 
