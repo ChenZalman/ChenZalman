@@ -12,7 +12,7 @@ I'm a passionate **Android and Full-Stack Developer** with a strong interest in 
 - Firebase (Authentication, Firestore, Crashlytics)
 - GitHub Actions for CI/CD
 
-### 🌐 Full-Stack & Backend
+### 🌐 Full-Stack
 - React (JSX, Hooks, Routing)
 - Server-side development with Node.js
 - MSSQL (Structured Query Language, Entity Framework)
